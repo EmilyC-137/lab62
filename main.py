@@ -1,6 +1,6 @@
 
 def encoder(number):
-    list = []
+    list = [] #commenttest
     for i in number:
         var = int(i)
         new_num = var + 3
